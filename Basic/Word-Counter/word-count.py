@@ -2,7 +2,7 @@
 
 try:
     # User enters file name
-    filename = "C:\\Users\\bisha\\OneDrive\\Desktop\\Python-Project-Collection\\Basic\\Word-Counter\\simple.txt"
+    filename = "Provide simple.txt file path"
 
     # Open file
     with open(filename, "r", encoding="utf-8") as file:
